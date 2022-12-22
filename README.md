@@ -5,7 +5,7 @@ Ce Projet Open Innovation à pour but de réaliser le site web du BDE de l'EPSI 
 
 ## Stack Technique
 
-- Php Framework Symfony (8.1+)
+- PhP Framework Symfony (8.1+)
 - JavaScript
 - BDD MySQL 4.9+
 
